@@ -179,3 +179,71 @@ padding: 30px;
   color: #757575;
 
 }
+
+/* resume section */
+
+/* hr{
+  border: none;
+  border-top: 3px double #333;
+  color: #333;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+} */
+
+.summary-of-resume{
+  margin: 130px 0 113px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 35px;
+  color: #181818;
+}
+
+.hr-title{
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+.experience-and-education-section{
+  display: flex;
+  margin: 0 270px 0;
+  align-items: center;
+  gap: 24px;
+}
+
+.education-title{
+  font-size: 30px;
+  font-weight: 700;
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.education-sub-title{
+font-size: 25px;
+font-weight: 700;
+color: #474747;
+margin-bottom: 10px;
+}
+
+.eduaction-mini-title{
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+  margin-bottom: 20px;
+}
+
+.education-discription{
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+
+/* Second Button */
+
+.second-button{
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 113px;
+}
+
