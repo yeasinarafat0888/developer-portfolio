@@ -247,3 +247,57 @@ margin-bottom: 10px;
  margin-bottom: 113px;
 }
 
+/* Website Footer */
+
+footer{
+  background-color: #FFF8F3;
+  padding: 130px 230px;
+}
+
+.full-footer{
+  display: flex;
+  gap: 217px;
+}
+
+/* .lets-connect{
+margin-left: 230px;
+} */
+
+.connect-title{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  margin-bottom: 20px;
+}
+
+.connect-description{
+  font-size: 16px;
+  font-weight: 400;
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.form-title{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  margin-bottom: 28px;
+}
+
+textarea{
+  width: 461px;
+  height: 180px;
+  border-radius: 5px;
+  margin-bottom: 42px;
+  margin-top: 24px;
+  border: none;
+}
+
+input{
+  display: flex;
+  margin-top: 24px;
+  width: 461px;
+  height: 64px;
+  border-radius: 5px;
+  border: none;
+}
