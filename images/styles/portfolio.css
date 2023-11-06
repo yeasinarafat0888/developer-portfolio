@@ -19,6 +19,18 @@
   background: #fd6e0a;
 }
 
+.contact-button{
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  border: 1px solid #FD6E0A;
+  background: #FFF8F3;
+  color: #FD6E0A;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
+
 .header{
   background-color: #FFF8F3;
   background-image: url(../header_bg.png), url(../developer.png);
